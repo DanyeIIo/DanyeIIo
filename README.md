@@ -6,7 +6,6 @@
 
 - c#
 - c++
-- typescript
 
 ## my frontend skills
 

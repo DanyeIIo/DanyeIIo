@@ -4,7 +4,7 @@
 
 ## my backend skills
 
-- c#
+- .net
 - c++
 
 ## my frontend skills

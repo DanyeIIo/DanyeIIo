@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Daniyar 👋
 
-### I'm a c# Developer
+### I'm a .net Developer
 
 ## my backend skills
 

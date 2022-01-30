@@ -4,12 +4,14 @@
 
 ## my backend skills
 
-- .net
-- c++
+- .net(asp.net, wpf, ado, ef)
+- c++ (c++ cli)
 
 ## my frontend skills
 
+- vanilla js
 - vue.js
+- react.js
 - html,css
 
 ### Spotify Playing 🎧
